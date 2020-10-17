@@ -5,7 +5,7 @@
 <br> 🔭 Currently learning about data science, frontend and how to play among us.
 <br> 🌱 I am passionate about programming and software engineering.
 <br> ⚡ Recently my projects are discord related (discord.py, Bots).
-<br> For more info, you can message me on [discord](https://discord.com/channels/@me/752944454993969212)
+<br> For more info, you can message me on [discord](https://discord.com/channels/@me)
 
 **Languages and Tools:**  
 <code><img height="30" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
